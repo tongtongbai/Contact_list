@@ -1,0 +1,8 @@
+test_add_contact:
+  test_add_contact001:
+    name: "baitong1111"
+    phone: "1555595555"
+  test_add_contact002:
+    name: "yangyusheddng"
+    phone: "1666666066"
+

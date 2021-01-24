@@ -1,0 +1,10 @@
+test_login:
+  test_login001:
+    username: "zhangsan"
+    password: "zhangsan123"
+  test_login002:
+    username: "lisi"
+    password: "lisi123"
+  test_login003:
+    username: "wang"
+    password: "wang123"

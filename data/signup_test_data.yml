@@ -1,0 +1,14 @@
+username_signup:
+  username_signup001:
+    useraname: "lucy"
+    password: "12121"
+  username_signup002:
+    useraname: "lily"
+    password: "12121"
+phone_signup:
+  phone_sigup001:
+    phone: "15091857928"
+    password: "15091857925"
+  phone_sigup002:
+    phone: "15129231144"
+    password: "15091857925"
